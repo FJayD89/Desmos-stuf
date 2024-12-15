@@ -30,3 +30,6 @@ cloud centre management visualisation
 
 [https://www.desmos.com/calculator/0rapukeyxo]
 Coulomb force visualisation
+
+[https://www.desmos.com/calculator/ak4w0ojvuk]
+(NOT MINE) radial hearts
