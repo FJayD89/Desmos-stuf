@@ -33,3 +33,6 @@ Coulomb force visualisation
 
 [https://www.desmos.com/calculator/ak4w0ojvuk]
 (NOT MINE) radial hearts
+
+https://www.desmos.com/calculator/dq98fbnt2e
+WIP TIC TAC TOE
