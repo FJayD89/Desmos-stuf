@@ -36,3 +36,7 @@ Coulomb force visualisation
 
 https://www.desmos.com/calculator/dq98fbnt2e
 WIP TIC TAC TOE
+
+https://www.desmos.com/calculator/uv8t5d4lck
+Hexagonal coordinates
+
