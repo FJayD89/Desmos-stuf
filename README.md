@@ -40,3 +40,6 @@ WIP TIC TAC TOE
 https://www.desmos.com/calculator/uv8t5d4lck
 Hexagonal coordinates
 
+https://www.desmos.com/calculator/uskhzqleyv
+better hex hitbox
+
