@@ -43,3 +43,6 @@ Hexagonal coordinates
 https://www.desmos.com/calculator/uskhzqleyv
 better hex hitbox
 
+https://www.desmos.com/calculator/3satds2jde
+WIP k-means clustering
+
