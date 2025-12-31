@@ -48,3 +48,6 @@ WIP k-means clustering
 
 [https://www.desmos.com/calculator/6udhc6rljr]
 Shape average
+
+https://www.desmos.com/calculator/tzjjkbifqd
+sk b-spline
